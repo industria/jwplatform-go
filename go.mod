@@ -1,4 +1,4 @@
-module github.com/jwplayer/jwplatform-go
+module github.com/industria/jwplatform-go
 
 go 1.15
 
